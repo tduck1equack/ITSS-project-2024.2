@@ -20,4 +20,3 @@ AIMS là một hệ thống thương mại điện tử dành cho các sản ph�
 - **Quản lý giỏ hàng**: Thêm, cập nhật số lượng và xóa sản phẩm khỏi giỏ hàng.
 - **Đặt hàng**: Xử lý đơn hàng, tính toán phí vận chuyển.
 - **Thanh toán**: Tích hợp cổng thanh toán VNPay.
-- **Quản lý đơn hàng**: Theo dõi, hủy đơn hàng.
